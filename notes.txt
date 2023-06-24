@@ -1,0 +1,7 @@
+php artisan serve
+
+php artisan make:controller ProductController
+
+php artisan make:model product -m
+
+php artisan migrate:fresh
